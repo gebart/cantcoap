@@ -38,6 +38,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include <unistd.h>
 #include <string.h>
 #include "cantcoap.h"
+#include "dbg.h"
 #include "arpa/inet.h"
 #include "sysdep.h"
 
